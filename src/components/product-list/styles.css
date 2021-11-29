@@ -1,0 +1,15 @@
+.conteiner {
+  width: 80%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.conteiner-line {
+  width: 80%;
+  display: flex;
+  padding: 12px;
+  border: solid 1px white;
+  margin: 12px auto;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 8px;
+}
